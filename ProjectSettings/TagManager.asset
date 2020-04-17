@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - Player
+  - Station
+  - CameraZone
+  - InteractionZone
+  - NPC
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Sky
+    uniqueID: 555172985
+    locked: 0
+  - name: Background
+    uniqueID: 3806303821
+    locked: 0
+  - name: BackgroundSnow
+    uniqueID: 3927727427
+    locked: 0
+  - name: StationBack
+    uniqueID: 3880827143
+    locked: 0
+  - name: StationStuffBack
+    uniqueID: 1214477137
+    locked: 0
+  - name: Other
+    uniqueID: 2439733629
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: StationStuffFront
+    uniqueID: 1932494855
+    locked: 0
+  - name: StationFront
+    uniqueID: 1173698375
+    locked: 0
+  - name: Foreground
+    uniqueID: 407231135
+    locked: 0
